@@ -1,5 +1,5 @@
 class CreateMovies < ActiveRecord::Migration[5.2]
-  def change
-    
+  def change create_table
+
   end
 end
